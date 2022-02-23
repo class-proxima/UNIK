@@ -1,0 +1,8 @@
+#Data folders. Later, to be stored on S3 for faster access.
+data/ntu/
+data/ntu_rgbd_skeleton_datasets_compressed'
+data/nturgbd_raw
+#Pretrained weights
+weights/
+#Training runs for UNIK
+runs/
